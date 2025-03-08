@@ -13,6 +13,7 @@ monarch_env/
 # Ignore dataset and large files
 dataset/
 clean_data.py
+merged-monarch/
 
 # Ignore Hugging Face models
 models/
