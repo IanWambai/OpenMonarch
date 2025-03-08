@@ -1,7 +1,5 @@
 # Monarch: African-Optimized AI Model
 
-![Monarch Logo](https://huggingface.co/AfricaComputeFund/Monarch-1/resolve/main/logo.png)
-
 ## Overview
 
 Monarch is a project built around the Monarch-1 model, a generative AI system fine-tuned from Mistral-7B-Instruct-v0.3 and optimized specifically for African linguistic, cultural, and economic contexts. Developed within the Africa Compute Fund (ACF), this project aims to bridge the gap between global AI models and Africa's unique needs.
